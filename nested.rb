@@ -89,7 +89,7 @@ programmer_hash[:yukihiro_matsumoto][:languages][1] << "c"
 
 binding.pry
 
-put nothing
+programmer_hash 
 end
 
 def changing_alan
